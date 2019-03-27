@@ -8,7 +8,6 @@
 
 %% Can you work out who finished where, the number and color they wore?
 
-%%Gary, Larry, Barry, Harry
 
 beat(gary, barry).
 
